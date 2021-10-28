@@ -1,14 +1,14 @@
 README.txt
 
 GTN Planning Tool
-Created on May 2020
+Created May 2020
 @author: Callum Gilmour
 Written in Python 3.8.2
 © Callum Gilmour
 
 
 Program:
-	Uses AIS and weather (ICOADS) data to determine to number of ships which could be tested in a year period by GTN N.O.S.E.
+	Uses AIS and weather (ICOADS) data to determine to number of ships which could be tested in a year period by GTN N.O.S.E. system.
 
 Inputs: (see also requirements, data)
 	AIS data
